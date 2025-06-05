@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\00_2_mouse\Source.cpp(92,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\00_2_mouse\Source.cpp(92,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\00_2_mouse\Source.cpp(112,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\00_2_mouse\Source.cpp(112,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  00_2_mouse.vcxproj -> C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\x64\Debug\00_2_mouse.exe

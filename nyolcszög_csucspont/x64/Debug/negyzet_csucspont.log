@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (06_drag-and-drop.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\negyzet_csucspont\Source.cpp(144,14): warning C4267: 'initializing': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\negyzet_csucspont\Source.cpp(161,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\negyzet_csucspont\Source.cpp(162,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\negyzet_csucspont\Source.cpp(178,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\negyzet_csucspont\Source.cpp(178,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\negyzet_csucspont\Source.cpp(246,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\negyzet_csucspont\Source.cpp(249,42): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  negyzet_csucspont.vcxproj -> C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\x64\Debug\negyzet_csucspont.exe

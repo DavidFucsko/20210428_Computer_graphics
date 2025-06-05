@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (06_drag-and-drop.vcxproj, negyzet_csucspont.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\nyolcszög_csucspont\Source.cpp(141,14): warning C4267: 'initializing': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\nyolcszög_csucspont\Source.cpp(159,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\nyolcszög_csucspont\Source.cpp(163,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\nyolcszög_csucspont\Source.cpp(164,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\nyolcszög_csucspont\Source.cpp(171,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\nyolcszög_csucspont\Source.cpp(172,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\nyolcszög_csucspont\Source.cpp(188,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\nyolcszög_csucspont\Source.cpp(188,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\nyolcszög_csucspont\Source.cpp(258,48): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\nyolcszög_csucspont\Source.cpp(262,42): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  nyolcszög_csucspont.vcxproj -> C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\x64\Debug\nyolcszög_csucspont.exe

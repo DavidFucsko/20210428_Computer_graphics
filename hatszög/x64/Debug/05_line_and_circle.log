@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\05_line_and_circle\Source.cpp(138,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\05_line_and_circle\Source.cpp(159,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\05_line_and_circle\Source.cpp(160,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\05_line_and_circle\Source.cpp(270,52): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  05_line_and_circle.vcxproj -> C:\Munka\02_Egyetem\Grafika\20210428_Computer_graphics\x64\Debug\05_line_and_circle.exe

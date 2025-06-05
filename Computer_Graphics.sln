@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bezier_érintő", "bezier_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bezier_mozgat", "bezier_mozgat\bezier_mozgat.vcxproj", "{5074BCBA-7AA8-4D12-8B3A-EDC8B6C29789}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "transformacio_egyenlő_szárú", "transformacio_egyenlő_szárú\transformacio_egyenlő_szárú.vcxproj", "{6D94CF74-0923-4709-BD00-7FA7F3C648CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{5074BCBA-7AA8-4D12-8B3A-EDC8B6C29789}.Release|x64.Build.0 = Release|x64
 		{5074BCBA-7AA8-4D12-8B3A-EDC8B6C29789}.Release|x86.ActiveCfg = Release|Win32
 		{5074BCBA-7AA8-4D12-8B3A-EDC8B6C29789}.Release|x86.Build.0 = Release|Win32
+		{6D94CF74-0923-4709-BD00-7FA7F3C648CE}.Debug|x64.ActiveCfg = Debug|x64
+		{6D94CF74-0923-4709-BD00-7FA7F3C648CE}.Debug|x64.Build.0 = Debug|x64
+		{6D94CF74-0923-4709-BD00-7FA7F3C648CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{6D94CF74-0923-4709-BD00-7FA7F3C648CE}.Debug|x86.Build.0 = Debug|Win32
+		{6D94CF74-0923-4709-BD00-7FA7F3C648CE}.Release|x64.ActiveCfg = Release|x64
+		{6D94CF74-0923-4709-BD00-7FA7F3C648CE}.Release|x64.Build.0 = Release|x64
+		{6D94CF74-0923-4709-BD00-7FA7F3C648CE}.Release|x86.ActiveCfg = Release|Win32
+		{6D94CF74-0923-4709-BD00-7FA7F3C648CE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

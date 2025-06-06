@@ -231,10 +231,10 @@ void display(GLFWwindow* window, double currentTime) {
 		GLfloat alpha = alphaContainer.at(i);
 		glm::mat4 model(1.0f);
 		translateMatrix = glm::translate(model, controlLine);
-		rotateMatrix = glm::rotate(model, alpha, glm::vec3((0.0f, 0.0f, 1.0f)));
-		scaleMatrix = glm::scale(model, { 1.0f, 1.0f, 1.0f });
+		//rotateMatrix = glm::rotate(model, alpha, glm::vec3((0.0f, 0.0f, 1.0f)));
+		//scaleMatrix = glm::scale(model, { 1.0f, 1.0f, 1.0f });
 		transformation = translateMatrix * rotateMatrix * scaleMatrix;
-		glUniformMatrix4fv(transformLoc, 1, GL_FALSE, glm::value_ptr(transformation));
+		glUniformMatrix4fv(transformLoc, 1, GL_FALSE, glm::value_ptr(translateMatrix));
 
 		glLineWidth(2.0f);
 		glDrawArrays(GL_LINE_LOOP, 0, polygon.size());
